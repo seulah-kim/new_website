@@ -2,7 +2,7 @@
 layout: post
 title:  "Quasilinearization-based controllability analysis of neuronal rate networks"
 date:   2016-07-06 22:21:59 +00:00
-image: /images/quasilinear.png
+image: /images/quasilinear.jpg
 categories: theoretical
 author: "Seul Ah Kim"
 authors: "<strong>Seul Ah Kim</strong>, ShiNung Ching"
