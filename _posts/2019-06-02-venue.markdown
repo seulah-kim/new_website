@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title of manuscript
+title: 'Venue Analytics: A Simple Alternative to Citation-Based Metrics'
 date: {}
 image: /images/jcdl2019.png
 categories: research
