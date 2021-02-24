@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Direct Fitting of Gaussian Mixture Models"
-date:   2019-05-29 22:21:59 +00:00
-image: /images/crv19.png
-categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "Computer and Robot Vision Conference"
-arxiv: https://arxiv.org/abs/1904.05537
-slides: /pdfs/crv19-slides.pdf
-code: https://github.com/leonidk/direct_gmm
+title:  "Quasilinearization-based controllability analysis of neuronal rate networks"
+date:   2016-07-06 22:21:59 +00:00
+image: /images/quasilinear.png
+categories: theoretical
+author: "Seul Ah Kim"
+authors: "<strong>Seul Ah Kim</strong>, ShiNung Ching"
+venue: "2016 American Control Conference (ACC)"
+arxiv: https://ieeexplore.ieee.org/abstract/document/7526836
+
 ---
 
-A formulation for fitting Gaussian Mixture Models (GMMs) directly to geometric objects, such as a triangular mesh. This method produces more robust results and produces an improvement in 3D registration for both meshes and RGB-D frames. 
+Quasi-linearization of nonlinear rate neurons to approximate controllability of dynamics.
